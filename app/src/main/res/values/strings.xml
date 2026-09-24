@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bolsa de Vagas</string>
+
+    <string name="nav_empresas">Empresas</string>
+    <string name="nav_alunos">Alunos</string>
+    <string name="nav_retornos">Retornos</string>
+
+    <string name="nenhuma_empresa">Nenhuma empresa cadastrada</string>
+    <string name="nenhum_aluno">Nenhum aluno encaminhado</string>
+    <string name="nenhum_retorno">Nenhum retorno registrado</string>
+
+    <string name="adicionar_empresa">Adicionar empresa</string>
+    <string name="adicionar_aluno">Adicionar aluno</string>
+    <string name="adicionar_retorno">Adicionar retorno</string>
+
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="nome_empresa">Nome da empresa</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="area_atuacao">Área de atuação</string>
+    <string name="pessoa_contato">Pessoa de contato</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="endereco">Endereço</string>
+    <string name="editar_dados_empresa">Editar dados da empresa</string>
+    <string name="requisitos_tecnicos">Requisitos técnicos</string>
+    <string name="descricao_requisito">Descrição do requisito</string>
+
+    <string name="nome_aluno">Nome do aluno</string>
+    <string name="curso">Curso</string>
+    <string name="matricula">Matrícula</string>
+    <string name="empresa">Empresa</string>
+    <string name="data_encaminhamento">Data de encaminhamento</string>
+    <string name="status">Status</string>
+
+    <string name="aluno">Aluno</string>
+    <string name="resultado">Resultado</string>
+    <string name="observacao">Observação</string>
+    <string name="data_retorno">Data do retorno</string>
+</resources>

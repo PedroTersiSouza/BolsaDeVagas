@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906568425427",
+    "project_id": "bolsadevaga",
+    "storage_bucket": "bolsadevaga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906568425427:android:e5e794b166a86ab4141926",
+        "android_client_info": {
+          "package_name": "com.example.bolsadevagas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPOkT_Vsn-lyYAZIinU-kUgEjO1Oxctk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

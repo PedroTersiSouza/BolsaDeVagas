@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_empresas"
+        android:icon="@drawable/ic_business"
+        android:title="@string/nav_empresas" />
+    <item
+        android:id="@+id/nav_alunos"
+        android:icon="@drawable/ic_school"
+        android:title="@string/nav_alunos" />
+    <item
+        android:id="@+id/nav_retornos"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/nav_retornos" />
+</menu>
