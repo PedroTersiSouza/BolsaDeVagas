@@ -1,6 +1,6 @@
 # Bolsa de Vagas para Estágio
 
-Aplicativo Android (Kotlin) desenvolvido para a disciplina de Qualidade e Teste de Software (Turma 3 DS-AMS).
+Aplicativo Android (Kotlin) desenvolvido para a disciplina de PAM (Turma 3 DS-AMS).
 
 O app gerencia o processo de encaminhamento de alunos para estágio: cadastro de **empresas parceiras**, seus **requisitos técnicos**, os **alunos encaminhados** para cada empresa e o **retorno/resultado** de cada encaminhamento. Todas as informações são gravadas em tempo real no **Firebase Firestore**.
 
@@ -71,4 +71,4 @@ retornos
 
 ## Autor
 
-Pedro Tersi — Turma 3 DS-AMS — Qualidade e Teste de Software
+Pedro Tersi — Turma 3 DS-AMS — PAM
