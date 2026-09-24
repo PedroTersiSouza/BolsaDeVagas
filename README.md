@@ -71,4 +71,4 @@ retornos
 
 ## Autor
 
-Miguel Heleno — Turma 3 DS-AMS — Qualidade e Teste de Software
+Pedro Tersi — Turma 3 DS-AMS — Qualidade e Teste de Software
